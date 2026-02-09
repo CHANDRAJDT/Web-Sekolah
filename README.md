@@ -150,7 +150,7 @@ footer{
 <section class="section" id="profil">
     <h2>Profil Sekolah</h2>
     <p>
-        SMK IBENYU merupakan sekolah kejuruan yang berfokus
+        SMK JOHOR DARUL TA'ZIM merupakan sekolah kejuruan yang berfokus
         pada pengembangan keterampilan, teknologi, dan karakter
         siswa agar siap bersaing di dunia kerja maupun industri.
     </p>
@@ -197,7 +197,7 @@ footer{
 
 <script>
 function daftar(){
-    alert("Pendaftaran SMK JOHOR DARUL TA'ZIM akan segera dibuka!");
+    alert("Pendaftaran SMK IBENYU akan segera dibuka!");
 }
 </script>
 
