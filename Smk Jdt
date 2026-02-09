@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
 <meta charset="UTF-8">
-<title>SMK IBENYU</title>
+<title>SMK JOHOR DARUL TA'ZIM</title>
 
 <style>
 *{
@@ -128,7 +128,7 @@ footer{
 
 <!-- NAVBAR -->
 <nav class="navbar">
-    <h1>SMK IBENYU</h1>
+    <h1>SMK JOHOR DARUL TA'ZIM</h1>
     <ul>
         <li><a href="#home">Beranda</a></li>
         <li><a href="#profil">Profil</a></li>
@@ -140,7 +140,7 @@ footer{
 <!-- HERO -->
 <section class="hero" id="home">
     <div>
-        <h2>SMK IBENYU</h2>
+        <h2>SMK JOHOR DARUL TA'ZIM</h2>
         <p>Unggul dalam Teknologi, Terampil & Siap Kerja</p>
         <button onclick="daftar()">Pendaftaran Siswa Baru</button>
     </div>
@@ -150,7 +150,7 @@ footer{
 <section class="section" id="profil">
     <h2>Profil Sekolah</h2>
     <p>
-        SMK IBENYU merupakan sekolah kejuruan yang berfokus
+        SMK JOHOR DARUL TA'ZIM merupakan sekolah kejuruan yang berfokus
         pada pengembangan keterampilan, teknologi, dan karakter
         siswa agar siap bersaing di dunia kerja maupun industri.
     </p>
@@ -186,18 +186,18 @@ footer{
 <section class="section" id="kontak">
     <h2>Kontak Sekolah</h2>
     <p>📍 Alamat: Jl. Pendidikan No. 10</p>
-    <p>📧 Email: smkibenyu@gmail.com</p>
+    <p>📧 Email: smkjdt@gmail.com</p>
     <p>📞 Telp: 08xx-xxxx-xxxx</p>
 </section>
 
 <!-- FOOTER -->
 <footer>
-    <p>© 2026 SMK IBENYU</p>
+    <p>© 2026 SMK JOHOR DARUL TA'ZIM</p>
 </footer>
 
 <script>
 function daftar(){
-    alert("Pendaftaran SMK IBENYU akan segera dibuka!");
+    alert("Pendaftaran SMK JOHOR DARUL TA'ZIM akan segera dibuka!");
 }
 </script>
 
